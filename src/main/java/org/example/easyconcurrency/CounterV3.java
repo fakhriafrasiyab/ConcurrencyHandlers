@@ -1,4 +1,4 @@
-package org.example;
+package org.example.easyconcurrency;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

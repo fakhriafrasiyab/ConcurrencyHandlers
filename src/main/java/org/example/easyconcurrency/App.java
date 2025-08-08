@@ -1,4 +1,4 @@
-package org.example;
+package org.example.easyconcurrency;
 
 
 public class App {
